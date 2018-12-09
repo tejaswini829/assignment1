@@ -1,0 +1,16 @@
+body{
+    background-color:#e3e3e3;
+    font-weight: bold;
+    }
+    
+.wrap{
+    margin:auto;
+    width:600px;
+    text-align:centre;
+    }
+    
+    blockquote{
+    border : 1px solid white;
+    text-align:centre;
+    margin-left:0;
+    }
